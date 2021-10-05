@@ -24,6 +24,8 @@ public class DemoJdbc {
 	//jdbc:sqlserver://localhost:1433;DatabaseName=******;user=******;password=******
 	private Logger log=Logger.getLogger(DemoJdbc.class);
 	
+	// prueba
+	
 	/**
 	 * Demo basico de acceso a bases de datos, parte 1: conexiones, consultas y manejo basico de excepciones
 	 */
