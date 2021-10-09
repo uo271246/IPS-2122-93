@@ -8,9 +8,9 @@ import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
-import ips.business.CarrerasController;
-import ips.persistence.CarrerasModel;
-import ips.ui.CarrerasView;
+import ips.business.carreras.CarrerasController;
+import ips.persistence.carreras.CarrerasModel;
+import ips.ui.carreras.CarrerasView;
 
 /**
  * Punto de entrada principal que incluye botones para la ejecucion de las pantallas 

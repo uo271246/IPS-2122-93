@@ -60,6 +60,9 @@ public abstract class DbUtil {
 			DbUtils.closeQuietly(conn);
 		}
 	}
+	
+	
+	
 	/**
 	 * Ejecuta una query sql con los parametros especificados mapeando el resultet en una lista de arrays de objetos;
 	 * Utiliza apache commons-dbutils para relizar el mapeo y el manejo del resto de aspectos de jdbc
